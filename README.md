@@ -15,6 +15,6 @@
 Qualquer dúvida entre em contato
 <a href="mailto:vithor.batista@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-https://media.tenor.com/jD9p5xpfS5EAAAAd/vi-arcane-jayce-arcane.gif
 
-![]()
+
+![](https://media.tenor.com/jD9p5xpfS5EAAAAd/vi-arcane-jayce-arcane.gif)
