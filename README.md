@@ -17,4 +17,4 @@ Qualquer dúvida entre em contato
 
 
 
-![https://media.tenor.com/jD9p5xpfS5EAAAAd/vi-arcane-jayce-arcane.gif]()
+![](https://media.tenor.com/jD9p5xpfS5EAAAAd/vi-arcane-jayce-arcane.gif)
