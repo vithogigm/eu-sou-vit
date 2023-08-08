@@ -15,4 +15,6 @@
 Qualquer dúvida entre em contato
 <a href="mailto:vithor.batista@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
+https://gifs.com/gif/jayce-login-screen-and-music-1080p-full-hd-league-of-legends-v135qo
+
 ![]()
