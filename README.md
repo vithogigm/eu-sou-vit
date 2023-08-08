@@ -15,6 +15,6 @@
 Qualquer dúvida entre em contato
 <a href="mailto:vithor.batista@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-https://gifs.com/gif/jayce-login-screen-and-music-1080p-full-hd-league-of-legends-v135qo
+<div class="tenor-gif-embed" data-postid="26388066" data-share-method="host" data-aspect-ratio="2.37037" data-width="100%"><a href="https://tenor.com/view/vi-arcane-jayce-arcane-arcane-arcane-bridging-the-gap-gif-26388066">Vi Arcane Jayce Arcane GIF</a>from <a href="https://tenor.com/search/vi+arcane-gifs">Vi Arcane GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ![]()
